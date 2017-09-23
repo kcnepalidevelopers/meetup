@@ -3,6 +3,5 @@ The purpose of this group is for all nepalese developers residing near kansas ci
 We will also post the upcoming venue and date of meetup in the same page.
 
 # Topics
-* Block-Chain Processing 
- - Mahesh Acharya will present.
+* Block-Chain Processing (Mahesh Acharya will present.)
 * Crypto-coin Mining
