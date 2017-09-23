@@ -5,3 +5,9 @@ We will also post the upcoming venue and date of meetup in the same page.
 # Topics
 * Block-Chain Processing (Mahesh Acharya will present.)
 * Crypto-coin Mining
+
+# Upcoming Schedule
+TBD. Venue and date/time will be decided based on the number of members and sufficient number of topics.
+
+# Past Event
+Looking forward to the first meetup.
