@@ -4,5 +4,5 @@ We will also post the upcoming venue and date of meetup in the same page.
 
 # Topics
 * Block-Chain Processing 
-* * Mahesh Acharya will present.
+- * Mahesh Acharya will present.
 * Crypto-coin Mining
